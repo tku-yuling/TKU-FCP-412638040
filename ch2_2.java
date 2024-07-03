@@ -9,4 +9,5 @@ public class ch2_2{  //定義類別 ch2_2
 
     }
 
+
 }
