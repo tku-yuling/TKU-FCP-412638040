@@ -7,3 +7,4 @@ public class ch2_6 {   //定義類別 ch2_6
         System.out.println((n1+n2));
     }
 }
+
